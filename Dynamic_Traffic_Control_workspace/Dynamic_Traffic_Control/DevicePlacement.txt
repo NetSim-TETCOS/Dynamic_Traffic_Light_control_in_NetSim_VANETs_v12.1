@@ -1,0 +1,12 @@
+#Device Placement File
+Env length = 1020.0
+Step = 0.4
+Simulation time = 300
+Number of device placed = 6
+#Device_Number (X-Pos, Y-Pos)
+1 NS.0 (508.4, 997.9)
+2 EW.0 (15.1, 508.4)
+3 EW.1 (15.1, 508.4)
+4 EW.2 (15.1, 508.4)
+5 EW.3 (15.1, 508.4)
+6 EW.4 (15.1, 508.4)

@@ -1,0 +1,5 @@
+<routes>
+<flow id="NS" type="car" begin="0" end="300" number="1" from="4i" to="4i" via="4o"/>
+<flow id="EW" begin="0" end="300" number="5" from="1i" to="1i" via="1o"/>
+<vType id="emergency" accel="2.6" decel="4.5" sigma="0.5" length="5" maxSpeed="70"/>
+</routes>

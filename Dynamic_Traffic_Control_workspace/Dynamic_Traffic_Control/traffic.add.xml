@@ -1,0 +1,23 @@
+<additionals>
+<vType id="car" color="red" vClass="emergency" maxSpeed="20" length="12"/>
+<rerouter id="rerouter_0" edges="4i">
+        <interval end="1e9">
+           <destProbReroute id="4o"/>
+        </interval>
+    </rerouter>
+<rerouter id="rerouter_1" edges="4o">
+        <interval end="1e9">
+           <destProbReroute id="4i"/>
+        </interval>
+    </rerouter>
+<rerouter id="rerouter_0" edges="1i">
+        <interval end="1e9">
+           <destProbReroute id="1o"/>
+        </interval>
+    </rerouter>
+<rerouter id="rerouter_0" edges="1o">
+        <interval end="1e9">
+           <destProbReroute id="1i"/>
+        </interval>
+    </rerouter>
+</additionals>
